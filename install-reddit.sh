@@ -180,6 +180,10 @@ cd $REDDIT_HOME
 
 if [ ! -d $REDDIT_HOME/reddit ]; then
     sudo -u $REDDIT_OWNER git clone git://github.com/reddit/reddit.git
+
+    pushd reddit
+    sudo -u $REDDIT_OWNER git checkout precise-staging
+    popd
 fi
 
 if [ ! -d $REDDIT_HOME/reddit-i18n ]; then
