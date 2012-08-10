@@ -99,7 +99,7 @@ setup(
         "kazoo",
     ],
     dependency_links=[
-        "https://nodeload.github.com/reddit/snudown/tarball/v1.0.4#egg=snudown-1.0.4",
+        "https://nodeload.github.com/reddit/snudown/tarball/v1.0.7#egg=snudown-1.0.7",
         "https://nodeload.github.com/reddit/pycassa/zipball/master#egg=pycassa-1.7.0",
     ],
     packages=find_packages(exclude=["ez_setup"]),
