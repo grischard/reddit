@@ -137,6 +137,7 @@ python-bcrypt
 python-statsd
 python-snudown
 python-lxml
+python-l2cs
 
 gettext
 make
@@ -151,7 +152,6 @@ cassandra
 haproxy
 PACKAGES
 
-# python-l2cs
 # python-kazoo
 # python-cjson (or something else)
 
