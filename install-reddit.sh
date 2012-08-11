@@ -138,6 +138,7 @@ python-statsd
 python-snudown
 python-lxml
 python-l2cs
+python-zope.interface
 
 gettext
 make
