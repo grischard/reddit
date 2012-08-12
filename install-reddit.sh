@@ -136,8 +136,8 @@ python-pylibmc
 python-bcrypt
 python-statsd
 python-snudown
-python-lxml
 python-l2cs
+python-lxml
 python-zope.interface
 
 gettext
