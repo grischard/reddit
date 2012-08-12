@@ -154,7 +154,6 @@ haproxy
 PACKAGES
 
 # python-kazoo
-# python-cjson (or something else)
 
 ###############################################################################
 # Wait for all the services to be up
