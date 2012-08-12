@@ -434,8 +434,7 @@ See the GitHub wiki for more information on these jobs:
 Now that the core of reddit is installed, you may want to do some additional
 steps:
 
-* Add "reddit.local" to your /etc/hosts file as an alias for 127.0.0.1
-  (or add it to your host OS's resolver configuration if running in a VM)
+* Ensure that $REDDIT_DOMAIN resolves to this machine.
 
 * To populate the database with test data, run:
 
